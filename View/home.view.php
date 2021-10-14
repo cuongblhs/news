@@ -13,7 +13,13 @@ getTemplate("header", $viewParams); ?>
             <div class="content-wrapper">
                 <div class="container">
                     <div class="row">
-                        <h1>NGUYEN CONG CUONG</h1>
+                    <div class="col-xl-12 stretch-card grid-margin">
+                            <div class="card bg-dark text-white">
+                                <div class="card-body">
+                                    <h1>CICD JENKINS</h1>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-xl-8 stretch-card grid-margin">
                             <div class="position-relative w-100 h-100">
                                 <?php
