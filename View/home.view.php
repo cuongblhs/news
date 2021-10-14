@@ -16,7 +16,7 @@ getTemplate("header", $viewParams); ?>
                     <div class="col-xl-12 stretch-card grid-margin">
                             <div class="card bg-dark text-white">
                                 <div class="card-body">
-                                    <h1>CICD JENKINS</h1>
+                                    <h1>CICD done</h1>
                                 </div>
                             </div>
                         </div>
