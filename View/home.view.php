@@ -16,7 +16,7 @@ getTemplate("header", $viewParams); ?>
                     <div class="col-xl-12 stretch-card grid-margin">
                             <div class="card bg-dark text-white">
                                 <div class="card-body">
-                                    <h1>CI/CD 2</h1>
+                                    <h1>CI/CD 3</h1>
                                 </div>
                             </div>
                         </div>
